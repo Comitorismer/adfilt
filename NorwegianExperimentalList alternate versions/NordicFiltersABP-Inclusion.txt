@@ -4571,7 +4571,7 @@ sverigesnatur.org##div[id^=sverigesNaturPopup]
 sverigespringer.se##.cd-desktop-banner, .cd-mobile-banner, .cd-header-banner-wrapper
 sverige.nu##a[href*=casino]
 sweclockers.com###prisjakt-popular, .ad:not(.adPanorama), .adForumSticker, .dark-mode__sponsor
-swedroid.se##div[id$=_ad], div[id$=_ad_mobile], .externalTopMobile, #externalTopMobile, a[href*="prisjakt.nu/produkt"], #nativendo-mainfeed + aside > .article, .article-footer > h3, .article-footer > .aeChart, #newExternal
+swedroid.se##div[id$=_ad], div[id$=_ad_mobile], .externalTopMobile, #externalTopMobile, #nativendo-mainfeed + aside > .article, .article-footer > h3, .article-footer > .aeChart, #newExternal
 swedroid.se#?#.mostReadMobile:has-text(/annons/i)
 swedroid.se##.puff:has(script[src*="lwadm.com"], .pjSidebar)
 swehockey.se##[class*=-reklam], .sif-sponsorer, .teaserblock, .commonblock a:not([href^="/"], [href*="/swehockey.se"])
